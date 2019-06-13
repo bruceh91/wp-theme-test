@@ -46,7 +46,7 @@
 
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'bhtheme' ); ?></button>
-			<h1>LALALALALALALALALALALALALALALALA</h1> <br/>
+			<h1>BBBBBBBBB</h1> <br/>
 			<h1>LALALALALALALALALALALALALALALALA</h1> <br/>
 			<h1>LALALALALALALALALALALALALALALALA</h1> <br/>
 			<h1>LALALALALALALALALALALALALALALALA</h1> <br/>
